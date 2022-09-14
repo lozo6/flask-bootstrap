@@ -7,14 +7,32 @@ body {
     font-family: "Trebuchet MS", sans-serif;
 }
 h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     margin: 0;
     line-height: 1.5;
     text-align: center;
 }
-h3 {
-    font-size: 2rem;
-    margin: 0;
-    line-height: 1;
+
+.topnav {
+    overflow: hidden;
+    background-color: #C19770;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
     text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #D5B895;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #A67A5B;
+    color: white;
 }
