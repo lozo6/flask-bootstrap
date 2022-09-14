@@ -1,0 +1,9 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+    background-color: #f5f5dc;
+}
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+}
