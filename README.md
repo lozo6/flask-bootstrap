@@ -16,3 +16,5 @@ I ran everything in a virtual environment in Python 3.9.1
 static is where all CSS elements are placed and templates are where all HTML elements are placed
 
 Please see requirements.txt for all requirement modules to run this assignment
+
+Navbar includes buttons that are part of the assignment
